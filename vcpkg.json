@@ -1,0 +1,8 @@
+{
+  "name": "sfml-lab",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "sfml"
+  ],
+  "builtin-baseline": "3c686f8dfcc00473408e9164a964ae77770048de"
+}
